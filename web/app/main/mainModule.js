@@ -1,1 +1,1 @@
-angular.application("mainApp")
+angular.application("mainApp",[])
